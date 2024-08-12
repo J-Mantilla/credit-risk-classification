@@ -42,6 +42,7 @@ Recall Score Class-0 (healthy loan): 99%
 Recall for class-1 (high-risk loan): 91%
 
 Summary:
+
 When it comes to forecasting loan risk, the logistic regression model excels, especially when it comes to differentiating between low-risk and high-risk loans. The model demonstrates very good precision (100%) and recall (99%) for forecasting healthy loans, with an overall accuracy of 99%. It generates a 91% recall and 85% precision for loans that have a high risk. The primary issue is false negatives for high-risk loans, even though there aren't many of them. This might be resolved by adding more high-risk loan data to enhance model training.
 
 In spite of this, the model performs well overall, particularly when it comes to correctly predicting healthy loans—a critical function in reducing financial risk. These metrics indicate that the logistic regression model is a viable option for credit risk assessment since it strikes a fair balance between recall and precision, which makes it a dependable predictor of loan status.
