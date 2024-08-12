@@ -31,9 +31,13 @@ Summary: Provide an overall assessment of the model, including whether it should
 Results:
 
 Accuracy: 99%
+
 Precision Score Class-0 (healthy loan): 100%
+
 Precision for class 1 (high-risk loan): 85%
+
 Recall Score Class-0 (healthy loan): 99%
+
 Recall for class-1 (high-risk loan): 91%
 
 Summary:
