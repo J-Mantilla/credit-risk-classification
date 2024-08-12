@@ -11,6 +11,7 @@ Load the lending_data.csv file from the Resources folder into a Pandas DataFrame
 Create the labels set (y) from the loan_status column.
 Create the features set (X) by selecting the remaining columns.
 Split the data into training and testing sets using train_test_split.
+
 2. Create a Logistic Regression Model with the Original Data
 Next, use logistic regression to build a predictive model:
 
@@ -20,6 +21,7 @@ Evaluate the model’s performance by:
 Generating a confusion matrix.
 Printing the classification report.
 Analyzing how well the model predicts both healthy loans (label 0) and high-risk loans (label 1).
+
 3. Write a Credit Risk Analysis Report
 Finally, summarize the analysis and results in this README file:
 
