@@ -1,10 +1,8 @@
-# credit-risk-classification
 Credit Risk Analysis Using Logistic Regression
-Overview of the Analysis:
-
+Overview of the Analysis
 The purpose of this analysis is to assess the performance of a logistic regression model in predicting credit risk. By analyzing data on loan statuses, we aim to develop a model that can accurately distinguish between healthy loans (low risk) and high-risk loans. The results of this analysis will inform whether the model is suitable for deployment in a real-world setting to assist in credit risk evaluation.
 
-Instructions:
+Instructions
 1. Split the Data into Training and Testing Sets
 To begin the analysis:
 
@@ -28,7 +26,6 @@ Finally, summarize the analysis and results in this README file:
 Overview of the Analysis: Explain the objective of the analysis (see above).
 Results: Present the key metrics of the model’s performance.
 Summary: Provide an overall assessment of the model, including whether it should be recommended for use by the company. Justify your recommendation based on the model's performance.
-
 Results:
 
 Accuracy: 99%
